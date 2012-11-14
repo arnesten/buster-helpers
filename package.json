@@ -1,11 +1,11 @@
 {
-    "name": "buster-autotest",
+    "name": "buster-helpers",
     "version": "0.0.1",
     "description": "",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git://github.com/arnesten/buster-autotest.git"
+        "url": "git://github.com/arnesten/buster-helpers.git"
     },
     "dependencies": {
         "step": "*",
