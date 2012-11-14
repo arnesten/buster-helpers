@@ -9,7 +9,8 @@
     },
     "dependencies": {
         "step": "*",
-        "walk": "*"
+        "walk": "*",
+        "argparser": "*"
     },
     "author": "Calle Arnesten",
     "license": "BSD",
