@@ -8,6 +8,7 @@
         "url": "git://github.com/arnesten/buster-helpers.git"
     },
     "dependencies": {
+        "buster": "*",
         "step": "*",
         "walk": "*",
         "argparser": "*"
