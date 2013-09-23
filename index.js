@@ -6,7 +6,7 @@ module.exports.startAutoTest = function (options) {
 };
 
 module.exports.runOnce = function (testDir, options) {
-    testRunner.runDots(testDir, options || {});
+    testRunner.runCompact(testDir, options || {});
 };
 
 module.exports.runOnceTeamcity = function (testDir, options) {

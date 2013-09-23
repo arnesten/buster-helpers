@@ -1,6 +1,6 @@
 {
     "name": "buster-helpers",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "",
     "main": "index.js",
     "repository": {
@@ -8,6 +8,8 @@
         "url": "git://github.com/arnesten/buster-helpers.git"
     },
     "dependencies": {
+		"buster": "*",
+		"compact-buster-reporter": "*",
         "step": "*",
         "walk": "*",
         "argparser": "*"
