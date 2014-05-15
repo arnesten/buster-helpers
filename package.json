@@ -9,7 +9,7 @@
     },
     "dependencies": {
 		"buster": "*",
-        "step": "https://github.com/arnesten/buster-helpers/archive/master.tar.gz",
+        "go-flow": "*",
         "walk": "*",
         "argparser": "*"
     },
