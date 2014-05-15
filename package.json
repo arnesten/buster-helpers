@@ -1,6 +1,6 @@
 {
     "name": "buster-helpers",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "",
     "main": "index.js",
     "repository": {
@@ -9,7 +9,7 @@
     },
     "dependencies": {
 		"buster": "*",
-        "step": "*",
+        "step": "https://github.com/arnesten/buster-helpers/archive/master.tar.gz",
         "walk": "*",
         "argparser": "*"
     },
